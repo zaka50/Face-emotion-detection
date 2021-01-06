@@ -13,6 +13,10 @@ Keras Version: 2.3.1\
 Tensorflow Version: 1.15.0\
 Python 3.7.6
 
+Dataset
+Here is the dataset of this emotion detection system accesible for anyone.Donwload and unzip this file to save in your programming folder.Also important to add this file to change coding and direction for your file loacation. 
+https://drive.google.com/file/d/1g1xqNkd1K8aZf6mCyeI9wW4mr2C3NqQ_/view?usp=sharing
+
 # Requirements file to run this program with database
 1.emotion_detection01.py\
 2.Emotion_saved.h5\
